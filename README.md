@@ -1,0 +1,2 @@
+# OpeninApp
+Welcome to the OpenInApp Backend Development repository, a crucial space dedicated to crafting the engine that powers the OpenInApp mobile application. OpenInApp's primary goal is to deliver a seamless user experience when interacting with various content types on mobile devices. In this repository, contributors will play a pivotal role in developing a robust backend infrastructure that addresses key functionalities essential for the application's success.
